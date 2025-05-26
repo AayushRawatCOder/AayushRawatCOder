@@ -44,7 +44,7 @@ I'm a passionate **Full Stack Developer** with 2 years of hands-on experience bu
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aayush-rawat-703002289/)
 - 🌐 [Portfolio Website](https://aayush-portfolio-chi.vercel.app/)
-- 📧 aayushrawatcoder@gmail.com
+- 📧 aayushrawatrawat98@gmail.com
 
 ---
 
